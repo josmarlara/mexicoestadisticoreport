@@ -1,0 +1,42 @@
+[25-Apr-2019 03:46:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PDF_MemImage has a deprecated constructor in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 56
+[25-Apr-2019 03:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF_MemImage::FPDF() in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php:60
+Stack trace:
+#0 /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/pdf.php(45): PDF_MemImage->PDF_MemImage()
+#1 {main}
+  thrown in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 60
+[25-Apr-2019 03:47:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PDF_MemImage has a deprecated constructor in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 56
+[25-Apr-2019 03:47:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF_MemImage::FPDF() in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php:60
+Stack trace:
+#0 /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/pdf.php(45): PDF_MemImage->PDF_MemImage()
+#1 {main}
+  thrown in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 60
+[25-Apr-2019 03:51:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PDF_MemImage has a deprecated constructor in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 56
+[25-Apr-2019 03:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF_MemImage::FPDF() in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php:60
+Stack trace:
+#0 /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/pdf.php(45): PDF_MemImage->PDF_MemImage()
+#1 {main}
+  thrown in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 60
+[25-Apr-2019 03:51:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PDF_MemImage has a deprecated constructor in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 56
+[25-Apr-2019 03:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF_MemImage::FPDF() in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php:60
+Stack trace:
+#0 /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/pdf.php(45): PDF_MemImage->PDF_MemImage()
+#1 {main}
+  thrown in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 60
+[25-Apr-2019 03:53:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PDF_MemImage has a deprecated constructor in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 56
+[25-Apr-2019 03:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF_MemImage::FPDF() in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php:60
+Stack trace:
+#0 /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/pdf.php(45): PDF_MemImage->PDF_MemImage()
+#1 {main}
+  thrown in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 60
+[25-Apr-2019 03:55:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PDF_MemImage has a deprecated constructor in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 56
+[25-Apr-2019 03:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF_MemImage::FPDF() in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php:60
+Stack trace:
+#0 /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/pdf.php(45): PDF_MemImage->PDF_MemImage()
+#1 {main}
+  thrown in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 60
+[25-Apr-2019 04:08:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PDF_MemImage has a deprecated constructor in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 56
+[25-Apr-2019 04:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF_MemImage::FPDF() in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php:60
+Stack trace:
+#0 /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/pdf.php(45): PDF_MemImage->PDF_MemImage()
+#1 {main}
+  thrown in /home1/tutosoft/public_html/tutoriales/mexicoestadisticoreport/php/mem_image.php on line 60
